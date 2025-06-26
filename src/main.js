@@ -50,7 +50,7 @@ form.addEventListener('submit', async e => {
       iziToast.warning({
         title: 'Oops!',
         titleColor: '#fff',
-        iconUrl: './img/icon.svg',
+        iconUrl: './icon.svg',
         iconColor: '#fff',
         messageColor: '#fff',
         backgroundColor: '#ef4040',
@@ -114,7 +114,7 @@ form.addEventListener('submit', async e => {
     iziToast.error({
       title: 'Error',
       titleColor: '#fff',
-      iconUrl: './img/icon.svg',
+      iconUrl: './icon.svg',
       iconColor: '#fff',
       messageColor: '#fff',
       backgroundColor: '#ef4040',
